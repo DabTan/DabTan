@@ -2,7 +2,9 @@
 
 ## Hi there 👋 I'm DabTan (my pseudonym)
 Name: Dabtan
+
 School: Saint Andrews Junior School (SAJS)
+
 Age: 11
 ## Hobbies
 + Reading (I like Enid Blyton!)
