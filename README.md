@@ -14,9 +14,23 @@ Age: 11
 
 
 # Areas of interest
+- 3D Modeling/3D printing
+- Videography/Post-Production
+- Cybersecurity
+## 3D Modeling/3D printing
+
+### 3D Modeling
+##### Blender(Beginner)
+I made a Donut!
+
+##### Mine-imator(Advanced)
+Heres a video I did for my science project on the topic "Forces"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=pFBS_1_SPIc
+" target="_blank"><img src="http://img.youtube.com/vi/pFBS_1_SPIc/0.jpg" 
+alt="Forces" width="240" height="180" border="10" /></a>
 
 
-## 
+
 
 
 ## Cybersecurity
