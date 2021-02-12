@@ -26,8 +26,6 @@ I made a Donut!
 #### Mine-imator(Advanced)
 Heres a video I did for my science project on the topic "Forces"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pFBS_1_SPIc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 [![Forces](https://img.youtube.com/vi/pFBS_1_SPIc/0.jpg)](https://www.youtube.com/watch?v=pFBS_1_SPIc)
 
 ## Videography/Post-Production
