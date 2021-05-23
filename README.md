@@ -17,9 +17,12 @@ Age: 11
 - 3D Modeling/3D printing
 - Videography/Post-Production
 - Cybersecurity
+- Robotics
 ## 3D Modeling/3D printing
 
 ![alt text](https://github.com/DabTan/DabTan/blob/main/20210516_203102.jpg?raw=true)
+
+Some Among Us figurines I printed :)
 
 
 
@@ -39,7 +42,10 @@ Heres a video I did for my science project on the topic "Forces"
 ### 
 
 
+## Robotics
+I entered the FLL Competition and Won the Robot Performance Award (Primary) Champions Award
 
+![alt text](https://github.com/DabTan/DabTan/blob/main/FLL%20cert.jpg?raw=true)
 
 ## Cybersecurity
 
