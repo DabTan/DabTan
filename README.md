@@ -5,7 +5,7 @@ Name: Dabtan
 
 School: Saint Andrews Junior School (SAJS)
 
-Age: 11
+Age: 11+
 ## Hobbies
 + Reading (I like Enid Blyton!)
 + 3d Printing 
@@ -47,7 +47,11 @@ I entered the FLL Competition and Won the Robot Performance Award (Primary) Cham
 
 ![alt text](https://github.com/DabTan/DabTan/blob/main/FLL%20cert.jpg?raw=true)
 
-https://www.youtube.com/watch?v=yDPS4rQXsOk
+[![FLL ](https://www.youtube.com/watch?v=yDPS4rQXsOk)
+
+
+Click on the image above for my team's 430 points video
+
 
 ## Cybersecurity
 
