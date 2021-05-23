@@ -54,20 +54,20 @@ I entered the FLL Competition and Won the Robot Performance Award (Primary) Cham
 Click on the image above for my team's 430 points video
 
 
-## Cybersecurity
+# Cybersecurity
 
-For the Cyberscurity part, well... my dad👨 wanted me to do __OSCP__ 🖥️ by Offensive Security(OS)
+## __OSCP__ 🖥️ by Offensive Security(OS)
 
-Well, to since my dad had passed his OSCP exam, he made me 
-try pentesting on HackTheBox(HTB) servers.
 
-Ever since I've been learning how to do Service Enumeration for servers
+I've learnt how to do Service Enumeration for servers
 and kind of learnt the Linux language.
 
-Furthermore, I also discovered more about exploits 
+
+The Servers I owned |
+                    |
+                    v
 
 
-After he thought I was ready....
- He contacted OS so see if I could take the exam (He should have done this earlier!)
- 
- And guess what? They said nope, only above 16. GG 🤷‍♂️
+![alt text](https://github.com/DabTan/DabTan/blob/main/HTB%20servers.png?raw=true)
+
+
