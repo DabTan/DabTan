@@ -39,11 +39,12 @@ Heres a video I did for my science project on the topic "Forces"
 
 ### Adobe After Effects and Adobe Premiere Pro
 
-### 
+Here are some videos i edited:
 
+[![FLL](https://img.youtube.com/vi/pI78ZRNl38k/0.jpg)](https://www.youtube.com/watch?v=pI78ZRNl38k)
 
 ## Robotics
-I entered the FLL Competition and Won the Robot Performance Award (Primary) Champions Award
+I entered the FLL Competition and won the Robot Performance Award (Primary) Champions Award
 
 ![alt text](https://github.com/DabTan/DabTan/blob/main/fll%20rp.png?raw=true)
 
