@@ -47,7 +47,8 @@ I entered the FLL Competition and Won the Robot Performance Award (Primary) Cham
 
 ![alt text](https://github.com/DabTan/DabTan/blob/main/FLL%20cert.jpg?raw=true)
 
-[![FLL ](https://www.youtube.com/watch?v=yDPS4rQXsOk)
+[![FLL](https://img.youtube.com/vi/pFBS_1_SPIc/0.jpg)](https://www.youtube.com/watch?v=yDPS4rQXsOk)
+
 
 
 Click on the image above for my team's 430 points video
