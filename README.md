@@ -63,9 +63,7 @@ I've learnt how to do Service Enumeration for servers
 and kind of learnt the Linux language.
 
 
-The Servers I owned |
-                    |
-                    v
+The Servers I owned ⬇️
 
 
 ![alt text](https://github.com/DabTan/DabTan/blob/main/HTB%20servers.png?raw=true)
