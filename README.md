@@ -86,7 +86,7 @@ https://user-images.githubusercontent.com/75604700/168417207-75169fb2-8537-40c8-
 
 ## VEX
 ### Now at ACS, I'm learing how to make VEX robots!
-### (Its really hard to _constantly_ align metal bars)
+### (Its really hard to _constantly_ align metal bars. Very different from LEGO, where pieces snap together...)
 https://user-images.githubusercontent.com/75604700/168417631-20ef98b1-4877-46c0-926e-28c9586eadf5.mp4
 
 ### The robot was _kinda_ misaligned (the lift) 
@@ -94,6 +94,8 @@ https://user-images.githubusercontent.com/75604700/168417631-20ef98b1-4877-46c0-
 # Cybersecurity
 
 ## __OSCP__ 🖥️ by Offensive Security(OS)
+
+
 
 
 I've learnt how to do Service Enumeration for servers
