@@ -45,13 +45,13 @@ Heres a video I did for my science project on the topic "Forces"
 
 ### Adobe After Effects and Adobe Premiere Pro
 
-Here is a Star Wars themed video I made with my brother.
+#### Here is a Star Wars themed video I made with my brother.
 
 [![FLL](https://img.youtube.com/vi/pI78ZRNl38k/0.jpg)](https://www.youtube.com/watch?v=pI78ZRNl38k)
 
-Here is a video I send to SJI for a DSA Application.
+#### Here is a video I send to SJI for a DSA Application.
 <p>Unfortunately, they didn't accept me...😔😔😔 </p>
-<p>Check it out!</p>
+<p>Check it out! ⬇️ </p>
 
 
 
@@ -84,14 +84,13 @@ Click on the image above for my team's 430 points video
 
 https://user-images.githubusercontent.com/75604700/168417207-75169fb2-8537-40c8-8d91-6238739b6f6a.mp4
 
-### VEX
-#### Now at ACS, I'm learing how to make VEX robots!
-#### (Its really hard to _constantly_ align metal bars)
-
-
+## VEX
+### Now at ACS, I'm learing how to make VEX robots!
+### (Its really hard to _constantly_ align metal bars)
 https://user-images.githubusercontent.com/75604700/168417631-20ef98b1-4877-46c0-926e-28c9586eadf5.mp4
 
-#### The robot was _kinda_ misaligned (the lift) 
+### The robot was _kinda_ misaligned (the lift) 
+
 # Cybersecurity
 
 ## __OSCP__ 🖥️ by Offensive Security(OS)
