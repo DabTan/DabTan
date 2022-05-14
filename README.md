@@ -1,10 +1,10 @@
 # About Myself 😃
 
 ## Hi there 👋 I'm DabTan (my pseudonym)
-Name: Dabtan
+#### Name: Dabtan
 
-Previous School: Saint Andrews Junior School (SAJS)
-School: ACS Independent
+#### Previous School: Saint Andrews Junior School (SAJS)
+#### School: ACS Independent
 
 Age: 13+
 ## Hobbies
