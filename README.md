@@ -27,12 +27,16 @@ Some Among Us figurines I printed! Sus :)
 
 
 
-### 3D Modeling
-#### Blender(Beginner)
+## 3D Modeling
+### Blender(Beginner)
 I made a Donut!
 
+<img src="https://github.com/DabTan/DabTan/blob/main/Donut.jpg" alt="donut" style="width:600px;height:337.5px;">
 
-#### Mine-imator(Advanced)
+
+
+
+### Mine-imator(Advanced)
 Heres a video I did for my science project on the topic "Forces"
 
 [![Forces](https://img.youtube.com/vi/pFBS_1_SPIc/0.jpg)](https://www.youtube.com/watch?v=pFBS_1_SPIc)
@@ -41,9 +45,16 @@ Heres a video I did for my science project on the topic "Forces"
 
 ### Adobe After Effects and Adobe Premiere Pro
 
-Here are some videos i edited:
+Here is a Star Wars themed video I made with my brother.
 
 [![FLL](https://img.youtube.com/vi/pI78ZRNl38k/0.jpg)](https://www.youtube.com/watch?v=pI78ZRNl38k)
+
+Here is a video I send to SJI for a DSA Application.
+<p>Check it out!</p>
+
+
+
+
 
 ## Robotics
 I entered the FLL Competition and won the Robot Performance Award (Primary) Champions Award
