@@ -3,11 +3,12 @@
 ## Hi there 👋 I'm DabTan (my pseudonym)
 Name: Dabtan
 
-School: Saint Andrews Junior School (SAJS)
+Previous School: Saint Andrews Junior School (SAJS)
+School: ACS Independent
 
-Age: 11+
+Age: 13+
 ## Hobbies
-+ Reading (I like Enid Blyton!)
++ Reading (I like Hardy Boys!)
 + 3d Printing 
 + Drawing Comics
 + LAN Gaming with my siblings
@@ -22,13 +23,14 @@ Age: 11+
 
 ![alt text](https://github.com/DabTan/DabTan/blob/main/20210516_203102.jpg?raw=true)
 
-Some Among Us figurines I printed :)
+Some Among Us figurines I printed! Sus :) 
 
 
 
 ### 3D Modeling
 #### Blender(Beginner)
 I made a Donut!
+
 
 #### Mine-imator(Advanced)
 Heres a video I did for my science project on the topic "Forces"
@@ -50,6 +52,8 @@ I entered the FLL Competition and won the Robot Performance Award (Primary) Cham
 
 
 ![alt text](https://github.com/DabTan/DabTan/blob/main/FLL%20certificate.jpg?raw=true)
+
+
 
 ----------------------------------------------------------------------------------
 
