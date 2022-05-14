@@ -54,10 +54,14 @@ Here is a video I send to SJI for a DSA Application.
 
 
 
+https://user-images.githubusercontent.com/75604700/168416995-ba4f820b-c77a-4a29-a631-faea03d8d9e2.mp4
+
 
 
 ## Robotics
-I entered the FLL Competition and won the Robot Performance Award (Primary) Champions Award
+### Lego
+#### FLL (FIRST LEGO LEAGUE)
+#### I entered the FLL Competition and won the Robot Performance Award (Primary) Champions Award
 
 ![alt text](https://github.com/DabTan/DabTan/blob/main/fll%20rp.png?raw=true)
 
@@ -71,8 +75,14 @@ I entered the FLL Competition and won the Robot Performance Award (Primary) Cham
 [![FLL](https://img.youtube.com/vi/yDPS4rQXsOk/0.jpg)](https://www.youtube.com/watch?v=yDPS4rQXsOk)
 
 
-
 Click on the image above for my team's 430 points video
+
+
+#### Autoclicker! (For Bedwars)
+
+
+https://user-images.githubusercontent.com/75604700/168417207-75169fb2-8537-40c8-8d91-6238739b6f6a.mp4
+
 
 
 # Cybersecurity
