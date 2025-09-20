@@ -6,12 +6,12 @@
 #### Previous School: Saint Andrews Junior School (SAJS)
 #### School: ACS Independent
 
-Age: 13+
+Age: 16+
 ## Hobbies
-+ Reading (I like Hardy Boys!)
++ Reading (I love the Hardy Boys series by Frank Dixon, but I've read the whole series in the library :( )
 + 3d Printing 
 + Drawing Comics
-+ LAN Gaming with my siblings
++ LAN Gaming with my siblings (Minecraft, Val)
 
 
 # Areas of interest
@@ -25,16 +25,11 @@ Age: 13+
 
 Some Among Us figurines I printed! Sus :) 
 
-
-
 ## 3D Modeling
 ### Blender(Beginner)
 I made a Donut!
 
 <img src="https://github.com/DabTan/DabTan/blob/main/Donut.jpg" alt="donut" style="width:600px;height:337.5px;">
-
-
-
 
 ### Mine-imator(Advanced)
 Heres a video I did for my science project on the topic "Forces"
@@ -57,19 +52,13 @@ Heres a video I did for my science project on the topic "Forces"
 
 https://user-images.githubusercontent.com/75604700/168416995-ba4f820b-c77a-4a29-a631-faea03d8d9e2.mp4
 
-
-
 ## Robotics
 ### Lego
 #### FLL (FIRST LEGO LEAGUE)
 #### I entered the FLL Competition and won the Robot Performance Award (Primary) Champions Award
 
 ![alt text](https://github.com/DabTan/DabTan/blob/main/fll%20rp.png?raw=true)
-
-
 ![alt text](https://github.com/DabTan/DabTan/blob/main/FLL%20certificate.jpg?raw=true)
-
-
 
 ----------------------------------------------------------------------------------
 
@@ -81,15 +70,19 @@ Click on the image above for my team's 430 points video
 
 #### Autoclicker! (For Bedwars)
 
-
 https://user-images.githubusercontent.com/75604700/168417207-75169fb2-8537-40c8-8d91-6238739b6f6a.mp4
 
 ## VEX
-### Now at ACS, I'm learing how to make VEX robots!
+### Now at ACS, I'm learing how to build VEX robots!
 ### (Its really hard to _constantly_ align metal bars. Very different from LEGO, where pieces snap together...)
 https://user-images.githubusercontent.com/75604700/168417631-20ef98b1-4877-46c0-926e-28c9586eadf5.mp4
 
 ### The robot was _kinda_ misaligned (the lift) 
+### Seasons I've played in:
+#### Spin Up 
+#### Over Under
+#### High Stakes
+#### Push Back
 
 # Cybersecurity
 
@@ -101,10 +94,13 @@ https://user-images.githubusercontent.com/75604700/168417631-20ef98b1-4877-46c0-
 I've learnt how to do Service Enumeration for servers
 and kind of learnt the Linux language.
 
-
 The Servers I owned ⬇️
 
-
 ![alt text](https://github.com/DabTan/DabTan/blob/main/HTB%20servers.png?raw=true)
+
+
+## O-levels
+### I got C5 (Pass) -> dang i kinda could have done better but pass is pass right???
+
 
 
