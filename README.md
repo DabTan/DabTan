@@ -77,7 +77,8 @@ https://user-images.githubusercontent.com/75604700/168417207-75169fb2-8537-40c8-
 ### (Its really hard to _constantly_ align metal bars. Very different from LEGO, where pieces snap together...)
 https://user-images.githubusercontent.com/75604700/168417631-20ef98b1-4877-46c0-926e-28c9586eadf5.mp4
 
-### The robot was _kinda_ misaligned (the lift) 
+### The robot was _kinda_ misaligned (the lift)
+
 ### Seasons I've played in:
 #### Spin Up 
 #### Over Under
@@ -100,6 +101,7 @@ The Servers I owned ⬇️
 
 
 ## O-levels
+## Chinese
 ### I got C5 (Pass) -> dang i kinda could have done better but pass is pass right???
 
 
